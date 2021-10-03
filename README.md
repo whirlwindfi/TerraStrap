@@ -1,2 +1,2 @@
 # TerraStrap
-Bootstrap core for Terra ecosystem
+Bootstrap core for Whirlwind Finance's Terra ecosystem whirlwind core technology
